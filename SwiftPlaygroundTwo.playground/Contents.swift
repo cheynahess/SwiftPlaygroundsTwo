@@ -22,6 +22,33 @@ if gradeA == true
 }else{
     print("I'm not so sure about coding in Swift")
 }
+//Part 5
+
+var Int = "1 < 3"
+if Int == "1 > 3" {
+    print ("False")
+}
+//Problem Set 2
+
+var goodScore = "I turn in work on time"
+if goodScore == "I'm doing okay"{
+    print ("I should get a decent grade")
+}else
+{
+    print ("I need to be more punctual")
+}
+
+//Problem Set 3
+var gradeB = false
+if gradeB == false
+{
+    print ("This class is challenging")
+    
+}else{
+    print("This class is fun")
+}
+
+}
 
 
 
